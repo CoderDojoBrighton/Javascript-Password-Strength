@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+---
+nav_exclude: true
+---
 
-You can use the [editor on GitHub](https://github.com/CoderDojoBrighton/test-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Javascript - Tic-Tac-Toe (or Noughts and Crosses)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### < insert image of final game here>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this tutorial, we will show you how to build a basic tic tac toe (or noughts and crosses if you're from the UK) game using HTML, CSS and JavaScript.
 
-```markdown
-Syntax highlighted code block
+In this game there are two players, the player who is first to get three in row. If nobody gets three in a row then it's a draw.
 
-# Header 1
-## Header 2
-### Header 3
+We'll be using an online environment called [syncfiddle]([https://](https://syncfiddle.net/)) to build the game. We can then work with you on the code and help you fix any bugs.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoderDojoBrighton/test-jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![syncfiddle-create-new-room](./images/syncfiddle-create-new-room.png
