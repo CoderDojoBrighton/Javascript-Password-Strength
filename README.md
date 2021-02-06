@@ -1,51 +1,34 @@
-## Welcome to GitHub Pages
+## JavaScript Tic Tac Toe Game
+
+In this tutorial, we will tell you how to build a basic tic tac toe (or noughts and crosses if you're from the UK) game using HTML, CSS and JavaScript.
+
+In this game there are two players, the player who is forst to get three in row wins the game.If nobody get sthree in a row then it's a draw.
+
+When the game ends it displays three outcomes:
+
+winner player one
+winner player two
+draw
+
 
 [Part 1](part1.md)
+
 [Part 2](part1.md)
+
 [Part 3](part1.md)
+
 [Part 4](part1.md)
 
 
-Part 1 - 
+Part 1 - Getting started
 
-Part 2 - 
+Using https://syncfiddle.net/ to code the game
+Creating the basic HTML page, adding style
 
-Part 3 - 
+Part 2 - Creating the board
 
-Part 4 - 
+Add the style to draw the board, show who's won and display a play again button 
 
-You can use the [editor on GitHub](https://github.com/CoderDojoBrighton/javascript_tic_tac_toe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Part 3 - Drawing the marks
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoderDojoBrighton/javascript_tic_tac_toe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Part 4 - Working out if there's a winner or it's a draw
