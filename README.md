@@ -1,6 +1,18 @@
 ## Welcome to GitHub Pages
 
 [Part 1](part1.md)
+[Part 2](part1.md)
+[Part 3](part1.md)
+[Part 4](part1.md)
+
+
+Part 1 - 
+
+Part 2 - 
+
+Part 3 - 
+
+Part 4 - 
 
 You can use the [editor on GitHub](https://github.com/CoderDojoBrighton/javascript_tic_tac_toe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
