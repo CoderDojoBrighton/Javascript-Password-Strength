@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Part 1](Part1.md)
+
 You can use the [editor on GitHub](https://github.com/CoderDojoBrighton/javascript_tic_tac_toe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
