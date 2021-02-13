@@ -13,4 +13,4 @@ In this game there are two players, the player who is first to get three in row.
 
 We'll be using an online environment called [syncfiddle]([https://](https://syncfiddle.net/)) to build the game. We can then work with you on the code and help you fix any bugs.
 
-![syncfiddle-create-new-room](./images/syncfiddle-create-new-room.png
+![syncfiddle-create-new-room](/images/syncfiddle-create-new-room.png
