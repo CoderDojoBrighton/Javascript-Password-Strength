@@ -492,3 +492,7 @@ Change the colours of the X and O so they are different - maybe red and blue
 
 Add scores so you can see who has won the most times - add some variables to record how many times each player has won
 
+
+### Original 
+
+This tutorial was adapted from one I found on [thecrazyprogrammer](https://www.thecrazyprogrammer.com/2019/09/javascript-tic-tac-toe-game.html) 
