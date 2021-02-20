@@ -69,7 +69,7 @@ This lays out a game board with 9 squares. We'll use these squares to display th
 
 We need to add some styling to the page to make it look like a game board. 
 
-Add the following style to your HTML document. You'll need to add this between the <style></style> tags.
+Add the following style to your HTML document. You'll need to add this between the `<style></style>` tags.
 
 ```css
 *{
