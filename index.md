@@ -192,7 +192,7 @@ Now if you click the Run button you should see the noughts and crosses board dis
 
 Now we'll add some JavaScript code to make the game work. 
 
-**Important**: You'll add this code between the <script></script> tags.
+**Important**: You'll add this code between the `<script></script>` tags.
 
 The first part is to setup our squares, what the winning combinations are and two variables so we can keep track of where each player has gone.
 
