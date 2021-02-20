@@ -142,7 +142,7 @@ A bit of styling makes our squares look good.
 
  
 
-```
+```css
 .winner{
     display: flex;
     flex-direction: column;
