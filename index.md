@@ -41,7 +41,7 @@ We'll start with a basic HTML document.
 
 This is about the most simple HTML document you can create. 
 
-Let's add the HTML for the game board. Add the following between the <body></body> tags.
+Let's add the HTML for the game board. Add the following between the `<body></body>` tags.
 
 ```html
 <body>
@@ -495,4 +495,4 @@ Add scores so you can see who has won the most times - add some variables to rec
 
 ### Original 
 
-This tutorial was adapted from one I found on [thecrazyprogrammer](https://www.thecrazyprogrammer.com/2019/09/javascript-tic-tac-toe-game.html) 
+This tutorial was adapted from [thecrazyprogrammer - tic-tac-toe](https://www.thecrazyprogrammer.com/2019/09/javascript-tic-tac-toe-game.html).
