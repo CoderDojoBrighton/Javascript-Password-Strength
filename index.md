@@ -14,7 +14,7 @@ In this game there are two players, the player who is first to get three in row 
 
 We'll be using an online environment called [syncfiddle](https://syncfiddle.net/) to build the game.
 
-
+Go to [syncfiddle](https://syncfiddle.net/) and click the blue button to create a new room. Now you should be in the syncfiddle code editor. This will allow you to write your code and test it directly in the browser. You put the code in the left hand side and when you click the Run button the right hand side will display the output. You can click Run on the example the provide to see it working. Clear out the left hand side as we want to start with a blank page.
 
 ## Laying out the board
 
