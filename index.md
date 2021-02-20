@@ -44,21 +44,19 @@ This is about the most simple HTML document you can create.
 Let's add the HTML for the game board. Add the following between the `<body></body>` tags.
 
 ```html
-<body>
 
-    <div class="container">
-        <div class="square" data-index="1"></div>
-        <div class="square" data-index="2"></div>
-        <div class="square" data-index="3"></div>
-        <div class="square" data-index="4"></div>
-        <div class="square" data-index="5"></div>
-        <div class="square" data-index="6"></div>
-        <div class="square" data-index="7"></div>
-        <div class="square" data-index="8"></div>
-        <div class="square" data-index="9"></div>
-    </div>
+<div class="container">
+    <div class="square" data-index="1"></div>
+    <div class="square" data-index="2"></div>
+    <div class="square" data-index="3"></div>
+    <div class="square" data-index="4"></div>
+    <div class="square" data-index="5"></div>
+    <div class="square" data-index="6"></div>
+    <div class="square" data-index="7"></div>
+    <div class="square" data-index="8"></div>
+    <div class="square" data-index="9"></div>
+</div>
 
-</body>
 ```
 
 This lays out a game board with 9 squares. We'll use these squares to display the X or the O when the player decides where to go.
